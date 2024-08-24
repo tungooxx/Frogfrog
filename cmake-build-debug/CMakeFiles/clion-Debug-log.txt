@@ -1,0 +1,14 @@
+"C:\Program Files\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S D:\test3 -B D:\test3\cmake-build-debug
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- Found SFML 2.6.1 in C:/SFML/lib/cmake/SFML
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/test3/cmake-build-debug

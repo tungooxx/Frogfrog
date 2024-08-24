@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\ConsoleApplication3.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\ConsoleApplication3.dir/objects.a @CMakeFiles\ConsoleApplication3.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ConsoleApplication3.dir/objects.a -Wl,--no-whole-archive -o ConsoleApplication3.exe -Wl,--out-implib,libConsoleApplication3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ConsoleApplication3.dir\linkLibs.rsp
